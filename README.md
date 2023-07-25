@@ -5,7 +5,7 @@
 
 Para rodar esse projeto, precisa instalar :
 
-npm install ....
+node app.js
 
 
   
